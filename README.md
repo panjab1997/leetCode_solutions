@@ -16,4 +16,5 @@
 | [1135-customers-who-bought-all-products](https://github.com/panjab1997/leetCode_solutions/tree/master/1135-customers-who-bought-all-products) |
 | [1338-queries-quality-and-percentage](https://github.com/panjab1997/leetCode_solutions/tree/master/1338-queries-quality-and-percentage) |
 | [1801-average-time-of-process-per-machine](https://github.com/panjab1997/leetCode_solutions/tree/master/1801-average-time-of-process-per-machine) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/panjab1997/leetCode_solutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
