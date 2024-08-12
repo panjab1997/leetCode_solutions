@@ -14,5 +14,6 @@
 | [0577-employee-bonus](https://github.com/panjab1997/leetCode_solutions/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/panjab1997/leetCode_solutions/tree/master/0620-not-boring-movies) |
 | [1135-customers-who-bought-all-products](https://github.com/panjab1997/leetCode_solutions/tree/master/1135-customers-who-bought-all-products) |
+| [1338-queries-quality-and-percentage](https://github.com/panjab1997/leetCode_solutions/tree/master/1338-queries-quality-and-percentage) |
 | [1801-average-time-of-process-per-machine](https://github.com/panjab1997/leetCode_solutions/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
